@@ -1,0 +1,15 @@
+{
+	"short_name": "Soon",
+	"name": "Coming soon...",
+	"icons": [
+		{
+			"src": "favicon.ico",
+			"sizes": "192x192 128x128 96x96 64x64 48x48 32x32 24x24 16x16",
+			"type": "image/x-icon"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#222836",
+	"background_color": "#1a202c"
+}
